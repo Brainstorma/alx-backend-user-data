@@ -18,7 +18,7 @@ This project is about implementing a session authentication mechanism without in
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/<Brainstorma>/0x02-Session_authentication.git
+git clone https://github.com/Brainstorma/0x02-Session_authentication.git
 cd 0x02-Session_authentication
 ```
 
